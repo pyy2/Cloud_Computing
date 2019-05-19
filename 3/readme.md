@@ -13,6 +13,8 @@
 
     Note that the java directory (JAVA_HOME) at SCI is at /usr/java/jdk1.8.0_101
 
-Submit
-    Submit the terminal output from the command line
-    The terminal output listing all the files in your output directory (in hdfs) 
+### What to submit
+
+Submit the terminal output from the command line
+
+The terminal output listing all the files in your output directory (in hdfs) 
