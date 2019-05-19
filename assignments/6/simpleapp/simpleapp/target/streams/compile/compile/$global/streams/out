@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/paulyu/Desktop/Spring2019/1699_CloudComputing/assignments/6/simpleapp/simpleapp/src/main/scala/SimpleApp.scala:5:19: object sql is not a member of package org.apache[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/paulyu/Desktop/Spring2019/1699_CloudComputing/assignments/6/simpleapp/simpleapp/src/main/scala/SimpleApp.scala:17:17: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m    val spark = SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/paulyu/Desktop/Spring2019/1699_CloudComputing/assignments/6/simpleapp/simpleapp/src/main/scala/SimpleApp.scala:24:19: not found: value sc[0m
+[0m[[0m[31merror[0m] [0m[0m    val logData = sc.read.textFile(logFile).cache()[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

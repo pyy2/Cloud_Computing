@@ -1,0 +1,14 @@
+exit
+run
+package
+run
+exit
+run
+exit
+run
+compile
+package
+exit
+run
+ls
+exit
