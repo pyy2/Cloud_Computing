@@ -4,13 +4,13 @@
 
 #### Instruction:
 
-Download the assignment2.tgz and uncompress the file which will give you a CSV file, Big3CloudProviders.txt, and picture files in the LogoFile directory.
+Download the tgz and uncompress the file which will give you a CSV file, Big3CloudProviders.txt, and picture files in the LogoFile directory.
 
 Each line in this CSV file has the following format: 
 
         cloud provider, company, start year, size of the logo file, logo filename
 
-Your job is to (similar to what we do for the example in the class)
+Your job is to:
 
 1. Upload the picture files to the object store
 
