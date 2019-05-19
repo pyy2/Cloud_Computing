@@ -40,4 +40,5 @@ Submit the terminal output what you have done for this step, including the comma
 1. kubectl get pods --output=wide
 2. kubectl get service --output=wide
 3. kubectl get deployment --output=wide
+
 Submit screen capture of the web UI as a result of input "Kubernetes is not easy to understand"
