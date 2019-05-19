@@ -35,10 +35,9 @@ One zip file which contains the files in each step in its own directory. There a
 
 4. Proof that you can orchestrate these containers in a kubernetes deployment shown below, ie. 
 
-K8S deployment for Sentiment Analyzer
 
-    Submit the terminal output what you have done for this step, including the commands below after the deployment
-        kubectl get pods --output=wide
-        kubectl get service --output=wide
-        kubectl get deployment --output=wide
-    Submit screen capture of the web UI as a result of input "Kubernetes is not easy to understand"
+Submit the terminal output what you have done for this step, including the commands below after the deployment
+    kubectl get pods --output=wide
+    kubectl get service --output=wide
+    kubectl get deployment --output=wide
+Submit screen capture of the web UI as a result of input "Kubernetes is not easy to understand"
