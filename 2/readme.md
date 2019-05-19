@@ -37,7 +37,7 @@ One zip file which contains the files in each step in its own directory. There a
 
 
 Submit the terminal output what you have done for this step, including the commands below after the deployment
-    kubectl get pods --output=wide
-    kubectl get service --output=wide
-    kubectl get deployment --output=wide
+1. kubectl get pods --output=wide
+2. kubectl get service --output=wide
+3. kubectl get deployment --output=wide
 Submit screen capture of the web UI as a result of input "Kubernetes is not easy to understand"
