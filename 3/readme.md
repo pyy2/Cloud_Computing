@@ -5,8 +5,8 @@
 
 ### Instruction
 
-    Download  shakespeare.tgz , unzip, and upload the files to SCI'shadoop cluster. You can reach the cluster via logging into ric-edge-01.sci.pitt.edu
-    Run WordCount, a MapReduce program to count words in these files. You can get the code and see how to build and run from the page:
+1. Download  shakespeare.tgz , unzip, and upload the files to SCI'shadoop cluster. You can reach the cluster via logging into ric-edge-01.sci.pitt.edu
+2. Run WordCount, a MapReduce program to count words in these files. You can get the code and see how to build and run from the page:
     
     https://hadoop.apache.org/docs/r2.7.2/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
 
