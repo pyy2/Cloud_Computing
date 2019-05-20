@@ -1,6 +1,7 @@
 # Objective
 
-### Learn how to use basic Apache Spark to cache and process data in memory
+### Learn how to use scala
+### Learn how to use basic Apache Spark commands to read and write data from HDFS then cache and process data in memory
 ### Learn how to submit a scala application to Spark
 
 
